@@ -1,0 +1,36 @@
+╭─ success ────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  Storefront setup complete!                                                  │
+│                                                                              │
+│    Shopify:   Mock.shop                                                      │
+│    Language:  JavaScript                                                     │
+│    Styling:   CSS                                                            │
+│    Markets:   Subfolders                                                     │
+│    Routes:                                                                   │
+│      • Home (/ & /:catchAll)                                                 │
+│      • Page (/pages/:handle)                                                 │
+│      • Cart (/cart/* & /discount/*)                                          │
+│      • Products (/products/:handle)                                          │
+│      • Collections (/collections & /collections/:handle)                     │
+│      • Policies (/policies & /policies/:handle)                              │
+│      • Blogs (/blogs/*)                                                      │
+│      • Account (/account/*)                                                  │
+│      • Search (/api/predictive-search & /search)                             │
+│      • Robots (/robots.txt)                                                  │
+│      • Sitemap (/sitemap.xml)                                                │
+│                                                                              │
+│  Help                                                                        │
+│                                                                              │
+│    • Guides [1]                                                              │
+│    • API reference [2]                                                       │
+│    • Demo Store code [3]                                                     │
+│    • Run `h2 --help`                                                         │
+│                                                                              │
+│  Next steps                                                                  │
+│                                                                              │
+│    • Run `cd hydrogen-app-mahfuz && npm run dev`                             │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[1] https://shopify.dev/docs/custom-storefronts/hydrogen/building
+[2] https://shopify.dev/docs/api/storefront
+[3] https://github.com/Shopify/hydrogen/tree/HEAD/templates/demo-store
